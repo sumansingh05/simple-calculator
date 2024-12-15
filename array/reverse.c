@@ -21,7 +21,7 @@ int main(){
         array[j]=temp;
     }
     printf("\nReversed array:");
-    for(int i=0;i<size;i++){
+    for(int i=0;i<size;i++){   
         printf("%d ",array[i]);
     }
 
